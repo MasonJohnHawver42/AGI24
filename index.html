@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+    body {
+      margin: 0;
+      height: 100vh;
+    }
+
+    :root 
+    {
+        --tfs: 2em;   
+    }
+
+    .center 
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .box 
+    {
+        width: 60%;
+        aspect-ratio: 2;
+        padding: 200px;
+        background: rgb(0, 0, 0, 0);
+        transform-style: preserve-3d;
+        transform: perspective(1000px);
+        /* box-shadow: 0 0 50px 0 rgba(51, 51, 51, 0.3); */
+        overflow: visible;
+        white-space: nowrap;
+        text-align: center;
+        border-radius: 10px;
+    }
+
+    .inner 
+    {
+        position: absolute;
+        width: fit-content;
+        height: 80%;
+        border: 100px rgba(0, 0, 0, 0);
+        top: 50%;
+        left: 50%;
+        transform-style: preserve-3d;
+        transform: translateZ(0px) translateX(-50%) translateY(-50%);
+        transition: transform 0.3s ease, font-size 0.3s ease;
+        background-color: rgba(255, 255, 255, 0);
+        overflow: visible;
+        white-space: nowrap;
+        text-align: center;
+    }
+
+    .box:hover .text
+    {
+        transform: translateZ(60px);
+        --tfs: 2.5em;
+    }
+
+    .box:hover .text-shadow 
+    {
+        --tfs: 2.3em;
+        text-shadow: 0px 0px 2px rgba(51, 51, 51, 1);
+    }
+
+
+    .text 
+    {
+        font-size: var(--tfs);
+        transform: translateZ(10px);
+        transition: transform 0.3s ease, font-size 0.3s ease;
+        color: white;
+    }
+
+    .text-shadow 
+    {
+        text-shadow: 0px 0px 4px rgba(51, 51, 51, 0.3); /* Add text shadow */
+        transition: transform 0.3s ease, font-size 0.3s ease, text-shadow 0.3s ease;
+        color: rgba(255, 255, 255, 0);
+        position: absolute;
+        font-size: var(--tfs);
+    }
+
+    .background 
+    {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+    }
+
+
+  </style>
+</head>
+<body class="center">
+    <canvas id="canvas" class="background"></canvas>
+    <div class="center box center" data-tilt data-tilt-glare data-tilt-max-glare="0.1" data-tilt-reverse="true" data-tilt-full-page-listening data-tilt-max="30" data-tilt-speed="400" data-tilt-perspective="500">
+        
+        <div class="inner">
+            <div class="text-shadow center" style="width:100%; height: 100%;"> AGI 2024 Hackathon
+                <p style="font-size: .5em;"> Mason Hawver, Anirudth, Devajya Khanna, <br> Elikem Kalitsi, Sameen, and Troy Boxton JR. </p> 
+            
+                <div>
+                    <p style="font-size: .5em;"> Our Story - Graphs </p> 
+                </div>
+
+            </div>
+                
+
+            <div class="text center" style="width:100%; height: 100%;">
+                AGI 2024 Hackathon
+                <p style="font-size: .5em;"> Mason Hawver, Anirudth, Devajya Khanna, <br> Elikem Kalitsi, Sameen, and Troy Boxton JR.  </p>
+                
+                <div>
+                <a href="charts.html" target="_blank">
+                    <button style="background-color: rgb(255, 255, 255, 0); color: white;">Our Story</button>
+                </a>
+                <a href="charts.html" target="_blank">
+                    <button style="background-color: rgb(255, 255, 255, 0); color: white;">Graphs</button>
+                </a>
+            </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="vanilla-tilt.js"></script>
+    <script type="text/javascript">
+        VanillaTilt.init(document.querySelector(".your-element"));
+    </script>
+
+<script src="smoke.js"></script>
+<script>
+	var canvas = document.getElementById('canvas')
+	var ctx = canvas.getContext('2d')
+	canvas.width = innerWidth
+	canvas.height = innerHeight
+
+    mx = 0
+    my = 0
+
+	var party = smokemachine(ctx, [18, 16, 54])
+	party.start() // start animating
+	party.setPreDrawCallback(function(dt){
+        
+        n = 3
+        party.addSmoke(mx + (Math.random() - .5) * 400, my + (Math.random() - .5) * 200, n)
+
+
+		canvas.width = innerWidth
+		canvas.height = innerHeight
+	})
+
+	// party.addsmoke(innerWidth/2, innerHeight, 100)
+	// onclick=e => {
+	// 	console.log("here")
+	// 	// party.step()
+	// }
+
+    // onmousedown = function (e)
+    // {
+	// 	var x = e.clientX
+	// 	var y = e.clientY
+	// 	var n = .5
+    //     console.log("here")
+	// 	// var t = Math.floor(Math.random() * 200) + 3800
+	// 	party.addSmoke(x, y, n)
+    // }
+
+    // on
+
+	onmousemove = function (e) {
+		mx = e.clientX
+		my = e.clientY
+		// var n = 3
+		// var t = Math.floor(Math.random() * 200) + 3800
+		// party.addSmoke(x, y, n)
+	}
+
+
+
+</script>
+    </body>

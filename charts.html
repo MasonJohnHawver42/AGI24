@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+   <head>
+
+    <style>
+        
+        body {
+          margin: 0;
+          height: 100vh;
+        }
+    
+        :root 
+        {
+            --tfs: 2em;   
+        }
+    
+        .center 
+        {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+    
+        .box 
+        {
+            width: 80%;
+            aspect-ratio: 1;
+            background: rgb(0, 0, 0, 0);
+            overflow: hidden;
+            white-space: nowrap;
+            text-align: center;
+            border-radius: 10px;
+            border: 0px white;
+        }
+
+        .title 
+        {
+            align-text;
+        }
+
+        .text 
+        {
+            width: 50%
+        }
+    
+    
+      </style>
+
+   </head>
+   <body>
+
+        <div class="center">
+            <h1> Graphs </h1>
+            <p> This page breaks down each graph and its signifigance. </p>
+
+            <br>
+            <br>
+            <iframe class="box" src="charts/app_over_time.html"></iframe>
+            <h3> Figure A: </h3>
+            <p class="text"> 
+                This graph tracks the number of applications submitted in the past 30 days at 15-day intervals, distinguishing between male and female applicants. Upon initial inspection, it is evident that the trends for male and female applications are highly correlated. Another notable observation is the absence of a noticeable increase in female interest after March 2017, when the new maternal leave legislation was enacted.
+                <br> <br>
+                The way we interpreted these two facts led us to the conclusion that, regardless of race, securing a job is primarily driven by the need to provide for oneself and meet financial obligations. Even with the introduction of improved benefits, it does not seem to be a significant influencing factor in job interest. Consequently, we concluded that female interest did not undergo a significant change in comparison to the male population.  
+            </p>
+            
+            <hr style="width: 60%;">
+
+            <iframe class="box" src="charts/app_corr.html"></iframe>
+
+            <h3> Figure B: </h3>
+            
+            <p class="text"> 
+                This graph represents the correlation matrix of the time series in Figure A. It empirically proves that men's and women's applications are highly correlated, further reinforcing the evidence that women did not change their behavior following the enactment of the new legislation.
+            </p>
+
+            <hr style="width: 60%;">
+
+
+            <iframe class="box" src="charts/application_hist.html"></iframe>
+
+            <h3> Figure C: </h3>
+            
+            <p class="text"> 
+                This graph compiles each person into a histogram based on the number of applications they submitted and their gender. A chi-squared test that we conducted revealed no significant difference between genders. The graph also underscores the competition in the job market in India, as evidenced by the substantial volume of submitted applications. This emphasizes that companies can potentially prefer one gender and still have a large pool of applications to choose from.            
+            </p>
+            <hr style="width: 60%;">
+
+            <iframe class="box" src="charts/interview_hist.html"></iframe>
+
+            <h3> Figure D: </h3>
+            
+            <p class="text"> 
+                This graph compiles each person into a histogram based on the number of interviews they received and their gender. A chi-squared test that we conducted revealed no significant difference between genders. Additionally, it emphasizes the competitiveness of the job market due to its pronounced right skewness.
+            </p>
+
+            <hr style="width: 60%;">
+
+            <iframe class="box" src="charts/pie_before.html"></iframe>
+            <iframe class="box" src="charts/pie_after.html"></iframe>
+
+            <h3> Figure E and F: </h3>
+            
+            <p class="text"> 
+                These pie charts illustrate the percentage of interviews given to women and men both before and after the legislation for increased maternal leave was passed, indicating a clear distributional shift. We conducted a chi-squared test, confirming a significant change. This provides further evidence supporting the argument that Indian companies did alter their hiring practices after 2017. We hypothesize that women within specific age groups are less likely to receive interview and job offers.            
+            </p>
+
+            <hr style="width: 60%;">
+
+            <!-- <iframe class="box" src="charts/percent_hist.html"></iframe>
+
+            <h3> Figure G: </h3>
+
+            <p> Work in Progress </p> -->
+        </div>
+ 
+      
+   </body>
+</html>

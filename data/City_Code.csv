@@ -1,0 +1,1396 @@
+city_id,state_id,city_name,top_city,city_rating
+0,0,,0,0
+1,1,"Port Blair",0,3
+2,2,Anantapur,0,3
+3,2,Guntakal,0,3
+4,2,Guntur,0,3
+5,37,Hyderabad,1,1
+6,2,Kakinada,0,3
+7,2,Kurnool,0,3
+8,2,Nellore,0,3
+9,37,Nizamabad,0,3
+10,2,Rajahmundry,0,3
+11,2,Tirupati,0,3
+12,2,Vijayawada,0,3
+13,2,Visakhapatnam,0,2
+14,37,Warangal,0,3
+15,3,Itanagar,0,3
+16,4,Guwahati,0,3
+17,4,Silchar,0,3
+18,5,Bhagalpur,0,3
+19,5,Patna,0,3
+20,6,Chandigarh,0,2
+21,7,Bhilai,0,2
+22,7,Bilaspur,0,3
+23,7,Raipur,0,2
+24,8,Silvassa,0,3
+25,9,"Daman & Diu",0,3
+26,35,Delhi,1,1
+28,10,Panaji,0,2
+29,10,"Vasco Da Gama",0,3
+30,11,Ahmedabad,1,1
+31,11,Anand,0,3
+32,11,Ankleshwar,0,3
+33,11,Bharuch,0,3
+34,11,Bhavnagar,0,3
+35,11,Bhuj,0,3
+36,11,Gandhinagar,0,2
+37,11,Gir,0,3
+38,11,Jamnagar,0,3
+39,11,Kandla,0,3
+40,11,Porbandar,0,3
+41,11,Rajkot,0,2
+42,11,Surat,0,2
+43,11,Vadodara,0,2
+44,11,Valsad,0,3
+45,11,Vapi,0,3
+46,12,Ambala,0,3
+47,12,"Chandigarh (Haryana)",0,3
+48,12,Faridabad,0,2
+49,12,Gurgaon,1,1
+50,12,Hisar,0,3
+51,12,Karnal,0,3
+52,12,Kurukshetra,0,3
+53,12,Panipat,0,3
+54,12,Rohtak,0,3
+55,13,Dalhousie,0,3
+56,13,Dharmasala,0,3
+57,13,Kulu,0,3
+58,13,Shimla,0,2
+59,14,Jammu,0,3
+60,14,Srinagar,0,2
+61,15,Bokaro,0,3
+62,15,Dhanbad,0,3
+63,15,Jamshedpur,0,3
+64,15,Ranchi,0,3
+65,16,Bangalore,1,1
+66,16,Belgaum,0,2
+67,16,Bellary,0,3
+68,16,Bidar,0,3
+69,16,Dharwad,0,3
+70,16,Gulbarga,0,3
+71,16,Hubli,0,3
+72,16,Kolar,0,3
+73,16,Mangalore,0,2
+74,16,Mysore,0,2
+75,17,Kozhikode,0,2
+76,17,Kochi,0,2
+77,17,Kannur,0,3
+78,17,Kollam,0,3
+79,17,Kottayam,0,3
+80,17,Palakkad,0,3
+81,17,Thrissur,0,3
+82,17,Thiruvananthapuram,0,2
+83,18,Lakshadweep,0,3
+84,19,Bhopal,0,3
+85,19,Gwalior,0,3
+86,19,Indore,0,2
+87,19,Jabalpur,0,2
+88,19,Ujjain,0,3
+89,20,Ahmednagar,0,3
+90,20,Aurangabad,0,2
+91,20,Jalgaon,0,3
+92,20,Kolhapur,0,3
+93,20,Mumbai,1,1
+94,20,"Mumbai Suburbs",0,0
+95,20,Nagpur,0,2
+96,20,Nasik,0,2
+97,20,"Navi Mumbai",0,3
+98,20,Pune,1,1
+99,20,Solapur,0,3
+100,21,Imphal,0,2
+101,22,Shillong,0,3
+102,23,Aizawal,0,3
+103,24,Dimapur,0,3
+104,25,Bhubaneswar,0,2
+105,25,Cuttack,0,3
+106,25,Paradeep,0,3
+107,25,Puri,0,3
+108,25,Rourkela,0,3
+109,26,Pondicherry,0,3
+110,27,Amritsar,0,2
+111,27,Bathinda,0,3
+112,27,"Chandigarh (Punjab)",0,3
+113,27,Jalandhar,0,2
+114,27,Ludhiana,0,3
+115,27,Mohali,0,2
+116,27,Pathankot,0,3
+117,27,Patiala,0,3
+118,28,Ajmer,0,3
+119,28,Jaipur,0,2
+120,28,Jaisalmer,0,3
+121,28,Jodhpur,0,3
+122,28,Kota,0,3
+123,28,Udaipur,0,3
+124,29,Gangtok,0,3
+125,30,Chennai,1,1
+126,30,Coimbatore,0,2
+127,30,Cuddalore,0,3
+128,30,Erode,0,3
+129,30,Hosur,0,3
+130,30,Madurai,0,3
+131,30,Nagercoil,0,3
+132,30,Ooty,0,3
+133,30,Salem,0,3
+134,30,Thanjavur,0,3
+135,30,Tirunalveli,0,3
+136,30,Trichy/Tiruchirapalli,0,3
+137,30,Tuticorin,0,3
+138,30,Vellore,0,3
+139,31,Agartala,0,3
+140,32,Agra,0,3
+141,32,Aligarh,0,3
+142,32,Allahabad,0,3
+143,32,Bareilly,0,3
+144,32,Faizabad,0,3
+145,32,Ghaziabad,0,3
+146,32,Gorakhpur,0,3
+147,32,Kanpur,0,2
+148,32,Lucknow,0,2
+149,32,Mathura,0,3
+150,32,Meerut,0,3
+151,32,Moradabad,0,3
+152,32,Noida,1,1
+153,32,Banaras,0,3
+154,33,Dehradun,0,2
+155,33,Roorkee,0,3
+156,34,Asansol,0,3
+157,34,Durgapur,0,3
+158,34,Haldia,0,3
+159,34,Kharagpur,0,3
+160,34,Kolkata,1,1
+161,34,Siliguri,0,3
+162,37,Ramagundam,0,4
+163,37,Karimnagar,0,4
+164,5,Arrah,0,4
+165,5,Purnia,0,4
+166,5,Muzaffarpur,0,4
+167,5,Darbhanga,0,4
+168,7,Durg,0,4
+169,7,Korba,0,4
+170,12,Sonipat,0,4
+171,16,Davanagere,0,4
+172,16,Bijapur,0,4
+173,16,Hubli-Dharwad,0,4
+174,16,Raichur,0,4
+175,19,Rewa,0,4
+176,19,Singrauli,0,4
+177,19,Ratlam,0,4
+178,19,Burhanpur,0,4
+179,19,Satna,0,4
+180,19,Dewas,0,4
+181,19,Sagar,0,4
+182,20,Akola,0,4
+183,20,Nanded,0,4
+184,20,Amravati,0,4
+185,20,Parbhani,0,4
+186,20,Dhule,0,4
+187,20,Latur,0,4
+188,20,Bhiwandi,0,4
+189,20,Malegaon,0,4
+190,25,Brahmapur,0,4
+191,28,Bharatpur,0,4
+192,28,Bhilwara,0,4
+193,28,Bikaner,0,4
+194,28,Alwar,0,4
+195,30,Tiruvottiyur,0,4
+196,30,Ambattur,0,4
+197,30,Avadi,0,4
+198,32,Etawah,0,4
+199,32,Loni,0,4
+200,32,Hapur,0,4
+201,32,Shahjahanpur,0,4
+202,32,Jhansi,0,4
+203,32,Rampur,0,4
+204,32,Mirzapur,0,4
+205,32,Mau,0,4
+206,32,Saharanpur,0,4
+207,32,Farrukhabad,0,4
+208,33,Nainital,0,4
+209,34,Bhatpara,0,4
+210,34,Maheshtala,0,4
+211,34,Kamarhati,0,4
+212,34,Bardhaman,0,4
+213,34,Gopalpur,0,4
+214,34,Panihati,0,4
+215,34,Baranagar,0,4
+216,0,Kalyani,0,0
+217,0,"Mehsana (Gujarat)",0,0
+218,0,"kadapa, Andhra Pradesh",0,0
+219,0,baddi,0,0
+220,0,Sonepat,0,0
+221,0,Bengaluru,0,0
+222,0,,0,0
+223,0,Firozabad,0,0
+224,0,kaithal,0,0
+225,0,navsari,0,0
+226,0,ghazipur,0,0
+227,0,ssdddd,0,0
+228,0,bikaner,0,0
+229,17,Malappuram,0,4
+230,0,Haridwar(Uttarakhand),0,0
+231,0,Tirukoilur,0,0
+232,0,Punjab(Gurdaspur),0,0
+233,0,Balurghat,0,0
+234,0,"bettiah bihar",0,0
+235,0,Namakkal,0,0
+236,0,neyveli,0,0
+237,0,ANOOPGARH(RAJASTHAN),0,0
+238,0,Singapore,0,0
+239,0,Jind,0,0
+240,0,YY5TE,0,0
+241,0,"SAGAR ",0,0
+242,0,f6L8j,0,0
+243,0,Bhadrak,0,0
+244,0,UK,0,0
+245,0,"Dibrugarh, P.O- Rajgarh",0,0
+246,0,Nainital,0,0
+247,0,hanumangarh,0,0
+248,0,srikakulam,0,0
+249,0,"kansbahal,  orissa",0,0
+250,0,Pilani,0,0
+251,0,5mdYF,0,0
+252,0,Tharad,0,0
+253,0,PURNEA,0,0
+254,0,saharanpur,0,0
+255,0,basti,0,0
+256,0,Yemmiganur-kurnool,0,0
+257,0,azamgarh,0,0
+258,0,HARDOI,0,0
+259,0,DHARMAPURI,0,0
+260,0,PANTNAGAR,0,0
+261,0,rampur,0,0
+262,0,BHIMAVARAM,0,0
+263,0,aswapuram,0,0
+264,0,sirsi,0,0
+265,0,"Orissa,balasore",0,0
+266,0,"RAYAGADA,ORISSA",0,0
+267,0,jalpaiguri,0,0
+268,0,"bhawanathpur township",0,0
+269,0,"Baddi (HP)",0,0
+270,0,haridwar(uttaranchal),0,0
+271,0,Bhubaneswar,0,0
+272,0,khammam,0,0
+273,0,Mirzapur,0,0
+274,0,sitapur,0,0
+275,0,tirupur,0,0
+276,0,Malerkotla,0,0
+277,0,dindigul,0,0
+278,0,panna,0,0
+279,0,dhenkanal,0,0
+280,0,Hoshiarpur,0,0
+281,0,Balasore,0,0
+282,0,"Barmer (Rajasthan)",0,0
+283,0,Bangkok,0,0
+284,0,"bikaner, rajasthan",0,0
+285,0,Hooghly,0,0
+286,0,"SITAPUR (U.P.)",0,0
+287,0,"Haldwni Uttrakhand",0,0
+288,0,bANKURA,0,0
+289,0,Sonipat(Haryana),0,0
+290,0,YANAM,0,0
+291,0,"saharanpur (up)",0,0
+292,0,"Nanded , Maharashtra",0,0
+293,0,gaya,0,0
+294,0,sirsa,0,0
+295,0,"Nalagarh (HP)",0,0
+296,0,"kanchipuram,tamilnadu",0,0
+297,0,Batala,0,0
+298,0,"korba, Chhattishgarh",0,0
+299,0,Thiruvarur,0,0
+300,0,sambalpur,0,0
+301,0,bargarh,0,0
+302,0,Udupi,0,0
+303,0,Jaunpur,0,0
+304,0,Damoh[M.P],0,0
+305,0,rishikesh,0,0
+306,0,Pulivendla,0,0
+307,0,chidambaram,0,0
+308,0,vidisha,0,0
+309,0,Davanagere,0,0
+310,17,Kasaragod,0,4
+311,0,"modinagar,ghaziabad",0,0
+312,0,Karimpur,0,0
+313,0,"almora, uttaranchal",0,0
+314,0,"Koraput, Orissa",0,0
+315,0,Darjeeling,0,0
+316,0,buxar,0,0
+317,0,Gandhidham,0,0
+318,0,modinagar,0,0
+319,0,"bharatpur (rajasthan)",0,0
+320,0,ranikhet,0,0
+321,0,Sivaganga,0,0
+322,0,kichha,0,0
+323,0,sultanpur,0,0
+324,0,Bhilwara,0,0
+325,0,Betul,0,0
+326,0,hazaribagh,0,0
+327,0,Jhansi(U.P.),0,0
+328,0,"Rewari, haryana",0,0
+329,0,"MUZAFFARPUR,BIHAR",0,0
+330,0,Alwar(NCR),0,0
+331,0,"PRAKASAM,AP",0,0
+332,0,Deoghar,0,0
+333,0,Alipurduar,0,0
+334,0,satna,0,0
+335,0,"Muzaffar Nagar",0,0
+336,0,singhana(Rajasthan),0,0
+337,0,berhampur,0,0
+338,0,LALITPUR,0,0
+339,0,"gohana,haryana",0,0
+340,0,"Bhowali (Nainital)",0,0
+341,0,Bhiwadi,0,0
+342,0,Dewas,0,0
+343,0,TUMKUR,0,0
+344,0,Fatehabad,0,0
+345,0,kanigiri,0,0
+346,0,"kadapa, Andhrapradesh",0,0
+347,0,JAMUI,0,0
+348,0,Harihar,0,0
+349,0,Chittorgarh,0,0
+350,0,pehowa,0,0
+351,0,AURAIYA,0,0
+352,0,BALLIA,0,0
+353,0,Akola,0,0
+354,0,rewa,0,0
+355,0,"balco korba",0,0
+356,0,sangrur,0,0
+357,0,TIRUTTANI,0,0
+358,0,Ratlam,0,0
+359,0,balrampur,0,0
+360,0,MARTHANDAM,0,0
+361,0,rampurhat,0,0
+362,0,jhunjhun(rajasthan),0,0
+363,0,BIJNOR(U.P.),0,0
+364,0,Barara,0,0
+365,0,"CHNADRAPUR (MAHARASTRA)",0,0
+366,0,burla(sambalpur),0,0
+367,0,Malda,0,0
+368,0,"Bishnupur, Bankura, West Bengal",0,0
+369,0,amravati,0,0
+370,0,Mandsaur(MP),0,0
+371,0,"Gangapur city",0,0
+372,0,"Tadepalligudem,Andhra pradesh",0,0
+373,0,"jhumri telaiya",0,0
+374,0,Bolpur,0,0
+375,0,Khatima,0,0
+376,0,"jagadhri distt yamunanagar",0,0
+377,0,gohana,0,0
+378,0,orai,0,0
+379,0,lucknow(up),0,0
+380,0,Neemuch,0,0
+381,0,Wardha,0,0
+382,0,manipal,0,0
+383,0,sivakasi,0,0
+384,0,"ANAND NAGAR",0,0
+385,0,Serampore,0,0
+386,0,HOSPET,0,0
+387,0,datia,0,0
+388,0,shimoga,0,0
+389,0,bTbF7,0,0
+390,0,sonipat,0,0
+391,0,hajipur,0,0
+392,0,Dongargarh,0,0
+393,0,Biharsharif,0,0
+394,0,siddhpur,0,0
+395,0,shahjahanpur,0,0
+396,0,bhavanagar,0,0
+397,0,VIZIANAGARAM,0,0
+398,0,kadapa,0,0
+399,0,Moga,0,0
+400,0,krishnagiri,0,0
+401,0,khandwa,0,0
+402,0,"DEHRI ON SONE(BIHAR)",0,0
+403,0,"mohinder garh",0,0
+404,0,"Lincoln, Nebraska, USA",0,0
+405,0,tirupattur,0,0
+406,0,"Thiruvalla,Pathanamthitta(D)",0,0
+407,0,NIgeria,0,0
+408,0,deoband,0,0
+409,0,inkollu,0,0
+410,0,jagadhri,0,0
+411,0,Khatauli,0,0
+412,0,"Greater Noida",0,0
+413,0,Navsari-Gujarat,0,0
+414,0,TARAKESWAR,0,0
+415,0,Karur,0,0
+416,0,Kancheepuram,0,0
+417,0,SAMASTIPUR,0,0
+418,0,Villupuram,0,0
+419,0,"sharanpur (Uttar Pradesh)",0,0
+420,0,"himachal pardesh",0,0
+421,0,ZPG7Y,0,0
+422,0,gurdaspur,0,0
+423,0,deoria,0,0
+424,0,"berhampur,ganjam,orissa",0,0
+425,0,Mandi(H.P),0,0
+426,0,RATLAM(M.P.),0,0
+427,0,Narnaul,0,0
+428,0,Nanded,0,0
+429,0,Barnala,0,0
+430,0,"UNA,HIMACHAL PRADESH",0,0
+431,0,shahada,0,0
+432,0,"Sri ganganagar",0,0
+433,0,Koraput,0,0
+434,0,cumbum,0,0
+435,0,RAJAPALAYAM,0,0
+436,0,kotdwara,0,0
+437,0,alwar,0,0
+438,0,"PATHANAMTHITTA, KERALA",0,0
+439,0,"any city",0,0
+440,0,nimbahera,0,0
+441,0,jhunjhunu,0,0
+442,0,Bina,0,0
+443,0,Amreli,0,0
+444,0,Midnapore,0,0
+445,0,shamli,0,0
+446,0,Ranaghat,0,0
+447,0,Barmer,0,0
+448,0,Soniapt,0,0
+449,0,"Aleppey,Kerala",0,0
+450,0,jhalawar,0,0
+451,0,haveri,0,0
+452,0,machilipatnam,0,0
+453,0,koppa(chikmagalur),0,0
+454,0,Malout,0,0
+455,0,orissa/balasore,0,0
+456,0,"Firozabad, Uttar Pradesh",0,0
+457,0,"Damanjodi,Orissa",0,0
+458,0,morena,0,0
+459,0,"bargarh,orissa",0,0
+460,0,"bikaner (rajasthan)",0,0
+461,0,Morbi,0,0
+462,0,ferozepur,0,0
+463,0,BACHELI,0,0
+464,0,Gadag,0,0
+465,0,Shahdol-MP,0,0
+466,0,"rewa (m.p.)",0,0
+467,0,"Diken,Dist.-Neemuch[mp]",0,0
+468,0,nagayalanka,0,0
+469,0,bangalore,0,0
+470,0,Solan,0,0
+471,0,"Muzaffarnagar (U.P)",0,0
+472,0,"Bikaner rajasthan",0,0
+473,0,jharsuguda,0,0
+474,0,Kolaghat,0,0
+475,0,pudukkottai,0,0
+476,0,Khallikote,0,0
+477,0,UAE,0,0
+478,0,sriganganagar(Rajasthan),0,0
+479,33,Kashipur,0,3
+480,0,Satara,0,0
+481,0,Dandeli,0,0
+482,0,"Yamnunagar, Harayana",0,0
+483,0,Adra,0,0
+484,0,"alwar (rajasthan)",0,0
+485,0,Tadepalligudem,0,0
+486,0,songadh,0,0
+487,0,Sankarankovil,0,0
+488,0,"Bhubaneswar, Orissa",0,0
+489,0,kanchipuram,0,0
+490,0,Rudrapur,0,0
+491,0,"Karad(patan) maharastra",0,0
+492,0,SANGLI,0,0
+493,0,khargone,0,0
+494,0,SRIGANGANAGAR,0,0
+495,0,Mandsaur,0,0
+496,0,"khandwa (M.P.)",0,0
+497,0,"malda town",0,0
+498,0,"L F j t 5",0,0
+499,0,INDIA,0,0
+500,0,bharatpur(raj.),0,0
+501,0,"Aden, Yemen",0,0
+502,0,"Bharatpur, Rajasthan, India",0,0
+503,0,Siwan,0,0
+504,0,"dewas m.p.",0,0
+505,0,coochbehar,0,0
+506,0,"KERALA,ALLAPUZHA",0,0
+507,0,addanki,0,0
+508,0,"Melbourne, Australia ",0,0
+509,0,"Nanded, Maharashtra.",0,0
+510,0,khurja,0,0
+511,0,"CONTAI - West Bengal",0,0
+512,0,bharatpur,0,0
+513,0,laxmangarh(sikar),0,0
+514,0,Bethuadahari,0,0
+515,0,Dungarpur,0,0
+516,0,tanuku,0,0
+517,0,banda,0,0
+518,0,gonda,0,0
+519,0,bangalore(belgaum),0,0
+520,0,"alwar Rajasthan",0,0
+521,0,"chhattisgardh rajnandgaon",0,0
+522,0,bijapur,0,0
+523,0,"Bari, Dholpur",0,0
+524,0,z89n2,0,0
+525,0,"nagapal/ balasore/orissa",0,0
+526,0,"Bhadrak, Orissa",0,0
+527,0,qehmw,0,0
+528,0,HALDWANI(UTTARAKHAND),0,0
+529,0,ratnagiri,0,0
+530,0,alwar(rajasthan),0,0
+531,0,"rourkela,orissa",0,0
+532,0,"gaya,bihar",0,0
+533,0,karad(maharastra),0,0
+534,0,Baraut,0,0
+535,0,k337h,0,0
+536,0,Malappurm,0,0
+537,0,Jeypore,0,0
+538,0,saran,0,0
+539,0,"united states",0,0
+540,0,rewari,0,0
+541,0,"Murshidabad, West Bengal",0,0
+542,0,unnao,0,0
+543,0,Damoh,0,0
+544,0,MAINPURI,0,0
+545,0,SYPMb,0,0
+546,0,narora,0,0
+547,0,Uttaranchal-haldwani,0,0
+548,0,"Pilani,Rajasthan",0,0
+549,0,Anpara,0,0
+550,0,Motihari,0,0
+551,0,"Rae Bareli",0,0
+552,0,darbhanga,0,0
+553,0,"Gevra, dist- korba",0,0
+554,0,BERHAMPORE,0,0
+555,17,Pathanamthitta,0,4
+556,0,chitradurga,0,0
+557,0,FAZILKA,0,0
+558,0,"kadapa-andhra pradesh",0,0
+559,0,"davangere karnataka",0,0
+560,0,Dist-Dhamtari,0,0
+561,0,Dhule,0,0
+562,0,abohar,0,0
+563,0,"Jhansi, U.P.",0,0
+564,0,baramati,0,0
+565,0,ITARSI,0,0
+566,0,Dholpur,0,0
+567,0,"Srinagar Garhwal",0,0
+568,0,NADIAD,0,0
+569,0,Latur,0,0
+570,0,"Mundra (Gujrat)",0,0
+571,0,tohana,0,0
+572,0,arambagh,0,0
+573,0,"azamgarh, U.P.",0,0
+574,0,Krishnagar,0,0
+575,0,bijnaur,0,0
+576,0,London,0,0
+577,0,bikaner-rajasthan,0,0
+578,0,"mau (u.p.)",0,0
+579,0,Guna,0,0
+580,0,Hoshangabad,0,0
+581,0,Jhajjar,0,0
+582,0,"BIAORA (M.P.)",0,0
+583,0,visnagar,0,0
+584,0,"Hazaribag Jharkhand",0,0
+585,0,Kuwait,0,0
+586,0,"burdwan    in WEST BENGAL",0,0
+587,0,Nagothane,0,0
+588,0,banswara,0,0
+589,0,Bhiwani(Haryana),0,0
+590,0,Purulia(W.B),0,0
+591,0,hazaribag,0,0
+592,0,"elct. engg",0,0
+593,0,Bandel,0,0
+594,0,bongaigaon,0,0
+595,0,"Obra Sonebhdra",0,0
+596,0,Alapuzha,0,0
+597,0,sunam,0,0
+598,0,Suri,0,0
+599,0,"madhya pradesh",0,0
+600,0,JALALABAD(WEST),0,0
+601,0,"Dholpur  (RAJASTHAN)",0,0
+602,0,sikar,0,0
+603,0,"azamgarh u.p",0,0
+604,17,Alappuzha,0,4
+605,0,valanchery,0,0
+606,0,aburoad,0,0
+607,0,haldwani,0,0
+608,0,rasulpur,0,0
+609,0,Kalyan,0,0
+610,0,N7Bmf,0,0
+611,0,Sheoraphulli,0,0
+612,0,"SURI,  BIRBHUM",0,0
+613,0,Thiruvalla,0,0
+614,0,katwa,0,0
+615,0,Parbhani,0,0
+616,0,USA,0,0
+617,0,"ajmer rajasthan",0,0
+618,0,Howrah,0,0
+619,0,Khagaria,0,0
+620,0,Dakor,0,0
+621,0,hathras,0,0
+622,0,Murshidabad,0,0
+623,0,birbhum,0,0
+624,0,"Sonepat Haryana",0,0
+625,0,"Bihar Sharif",0,0
+626,0,Ghatal,0,0
+627,0,Obra,0,0
+628,0,DELHI/NCR,0,0
+629,0,"Sagar MP",0,0
+630,0,nandyal,0,0
+631,0,BULANDSHAHR,0,0
+632,0,damanjodi,0,0
+633,0,Raiganj,0,0
+634,0,mahoba,0,0
+635,0,"berhampur, orissa",0,0
+636,0,"bulandshahr,uttar pradesh",0,0
+637,0,lafia,0,0
+638,0,saharanpur(up),0,0
+639,0,"sao paulo",0,0
+640,0,muktsar(152026),0,0
+641,0,urun-islampur,0,0
+642,0,Chhindwara,0,0
+643,0,EQiS2,0,0
+644,0,Kudal,0,0
+645,0,"srikakulam , andhra pradesh",0,0
+646,0,Msd,0,0
+647,0,Bulandsharh,0,0
+648,0,"singrauli (M.P)",0,0
+649,0,vizianagram,0,0
+650,0,pedana,0,0
+651,0,"KORAPUT ,ORISSA",0,0
+652,0,"jeypore, orissa",0,0
+653,0,"suri,birbhum",0,0
+654,0,Mahendergarh,0,0
+655,0,sonepat(haryana),0,0
+656,0,"JALESWAR,BALASORE",0,0
+657,0,Banglore,0,0
+658,0,"Madhubani Bihar",0,0
+659,0,Dumka,0,0
+660,0,"Shaktinagar, Sonebhadra(U.P)",0,0
+661,0,"Sundargarh,orissa",0,0
+662,0,Nagda(M.P.),0,0
+663,0,"Jorhat, Assam",0,0
+664,0,"paonta sahib ,hp",0,0
+665,0,RYEPN,0,0
+666,0,NewDelhi,0,0
+667,0,chittoor,0,0
+668,0,"navsari,guj.",0,0
+669,0,Etah,0,0
+670,0,"angul,orissa",0,0
+671,0,bhubaneswara,0,0
+672,0,SUNABEDA,0,0
+673,0,Tenali,0,0
+674,0,amethi,0,0
+675,0,hazraibagh,0,0
+676,0,Malaysia,0,0
+677,0,9HKHb,0,0
+678,0,godhra,0,0
+679,0,"Ferozepur City",0,0
+680,0,"Bahadurgarh, Distt. Jhajjar (HR)",0,0
+681,0,baripada(ORISSA),0,0
+682,0,Banpur,0,0
+683,0,"kotkapura (punjab)",0,0
+684,0,rayagada,0,0
+685,0,kotkapura,0,0
+686,0,Farrukhabad,0,0
+687,0,Amravati(maharashtra),0,0
+688,0,"jhansi (u.p.)",0,0
+689,0,etawah,0,0
+690,0,"jhansi (UP)",0,0
+691,0,"BALASORE,ORISSA",0,0
+692,0,osmanabad,0,0
+693,0,"lakhimpur kheri. up",0,0
+694,0,8crea,0,0
+695,0,S7492,0,0
+696,0,Jorhat,0,0
+697,0,"jamarehi sani",0,0
+698,0,Bardhaman,0,0
+699,0,"Sulthan Bathery,Kerala",0,0
+700,0,Tamluk,0,0
+701,0,huzurabad,0,0
+702,0,NCR,0,0
+703,0,Balangir,0,0
+704,0,Haldwani(uttaranchal),0,0
+705,0,H3rmR,0,0
+706,0,"Sansarpur Terrace",0,0
+707,0,arrah,0,0
+708,0,"jajpur, orissa",0,0
+709,0,thekkady,0,0
+710,0,"muzaffarnagar(uttar pradesh )",0,0
+711,0,Davangere,0,0
+712,0,palani,0,0
+713,0,Sehore(MP),0,0
+714,0,anuppur,0,0
+715,0,Karachi,0,0
+716,0,KASHIPUR(UTTARAKHAND),0,0
+717,0,NAGAPATTINAM,0,0
+718,0,Sonebhdra,0,0
+719,0,mukerian,0,0
+720,0,Karwar,0,0
+721,0,"RAYAGADA, ORISSA",0,0
+722,0,"Titlagarh,Orissa",0,0
+723,0,Puttur,0,0
+724,0,Arvi,0,0
+725,0,Tinsukia,0,0
+726,0,karaikudi,0,0
+727,0,685Ga,0,0
+728,0,Dhariwal,0,0
+729,0,"sangli,maharashtra",0,0
+730,0,bhavani,0,0
+731,0,PRATAPGARh,0,0
+732,0,Mandi-Dabwali,0,0
+733,0,hindupur,0,0
+734,0,Giridih,0,0
+735,0,orissa/Bhubaneswar,0,0
+736,0,BHANDARA,0,0
+737,0,gorakhpur/lucknow,0,0
+738,0,Damoh(M.P.),0,0
+739,0,arambag,0,0
+740,0,a4eba,0,0
+741,0,"RIHAND NAGAR",0,0
+742,0,peshawar,0,0
+743,0,i95tg,0,0
+744,0,"jajpur,orissa",0,0
+745,0,madhubani,0,0
+746,0,cairo,0,0
+747,0,"chhindwara, mp",0,0
+748,0,Jeddah,0,0
+749,0,Tindivanam,0,0
+750,0,Mandya,0,0
+751,0,jhargram,0,0
+752,0,Srilanka,0,0
+753,0,Hamirpur(H.P),0,0
+754,0,"GAYA,(BIHAR)",0,0
+755,0,ara,0,0
+756,0,"Kuala Lumpur Malaysia",0,0
+757,0,"GUDIVADA,KRISHNA dist,(A.P)",0,0
+758,0,"shwe li",0,0
+759,0,C3SLA,0,0
+760,0,Majitar,0,0
+761,0,KOTHAMANGALAM,0,0
+762,0,"jhumri telaiya,KODERMA",0,0
+763,0,Gajraula,0,0
+764,0,Rajpura(punjab),0,0
+765,0,Kamakhyaguri,0,0
+766,0,"Behror, dist.- Alwar (Raj.)",0,0
+767,0,"YAMUNA NAGAR(HARAYANA)",0,0
+768,0,BAHADURGARH(HARYANA),0,0
+769,0,"kotkapura, punjab",0,0
+770,0,Burla,0,0
+771,0,viruthunagar,0,0
+772,0,"saharanpur (U.P)",0,0
+773,0,"Sunabeda, koraput",0,0
+774,0,tiruvarur,0,0
+775,0,SIVASAGAR,0,0
+776,0,mananthavady,0,0
+777,0,"sambalpur, orissa",0,0
+778,0,zira,0,0
+779,0,adoni,0,0
+780,0,haryana-Sonipat,0,0
+781,0,"Karad, maharashtra",0,0
+782,0,badaun,0,0
+783,0,"Bhucho Mandi(Bathinda)",0,0
+784,0,"yamuna nagar(HARYANA)",0,0
+785,0,BISHNUPUR,0,0
+786,0,kumbakonam,0,0
+787,0,"MANDSAUR (M.P.)",0,0
+788,0,"burdwan (west bengal)",0,0
+789,0,nidadavole,0,0
+790,0,"berhampore,west bengal",0,0
+791,0,"Alipurduar Junction",0,0
+792,0,madanapalle,0,0
+793,0,"Pandalam, kerala",0,0
+794,0,badkulla,0,0
+795,0,"Nangal Township",0,0
+796,0,Ranebennur,0,0
+797,0,"electrical engineering",0,0
+798,0,"any where in India",0,0
+799,0,"all over india",0,0
+800,0,"kolkata,tamluk",0,0
+801,0,chopan,0,0
+802,0,yavatmal,0,0
+803,0,sawantwadi,0,0
+804,0,UTTARPARA,0,0
+805,0,Barmer(Rajasthan),0,0
+806,0,"firozabad(uttar pradesh)",0,0
+807,0,Modinagare,0,0
+808,0,8KMSC,0,0
+809,0,Theni,0,0
+810,0,Phagwara,0,0
+811,0,patrasayer,0,0
+812,0,"Yamuna Nagar,Haryana",0,0
+813,0,jaggayyapet,0,0
+814,0,hardwar,0,0
+815,0,karimnagar,0,0
+816,0,HOSHANGABAD(M.P),0,0
+817,0,Kanchrapara,0,0
+818,0,Balod(Durg),0,0
+819,0,Karaikal,0,0
+820,0,renukoot,0,0
+821,0,"Kadapa in Andhra Pradesh",0,0
+822,0,ULUBERIA,0,0
+823,0,"moga,punjab",0,0
+824,0,Raghunathpur,0,0
+825,0,"JANGIPUR, RAGHUNATHGANJ",0,0
+826,0,chirala,0,0
+827,0,gunupur,0,0
+828,0,Beawar,0,0
+829,0,"Pilani (Rajasthan)",0,0
+830,0,Paramakudi,0,0
+831,0,gopeshwar(chamoli),0,0
+832,0,"Maler Kotla",0,0
+833,0,Rajpura,0,0
+834,0,"JAMMALAMADUGU,KADAPA",0,0
+835,0,RAJNADGAON,0,0
+836,0,"Pantnagar (U.K)",0,0
+837,0,narsapur,0,0
+838,0,kovilpatti,0,0
+839,0,"rudrapur,uttranchal",0,0
+840,0,NOAMUNDI,0,0
+841,0,patan,0,0
+842,0,"Bikaner,Rajasthan",0,0
+843,0,"South 24 Parganas",0,0
+844,0,"srikakulam,andhra pradesh",0,0
+845,0,"Ramanathapuram District",0,0
+846,0,Chhatarpur,0,0
+847,0,JIND(HARYANA),0,0
+848,0,"vellore district",0,0
+849,0,Dabwali,0,0
+850,0,"rampur (U.P)",0,0
+851,0,pithoragarh,0,0
+852,0,"hoshiarpur, punjab",0,0
+853,0,Almora,0,0
+854,0,"Malda (W.B)",0,0
+855,0,"bhanjanagar,dist:ganjam",0,0
+856,0,"New Zealand",0,0
+857,0,Purna,0,0
+858,0,ARUPPUKOTTAI,0,0
+859,0,"pratapgarh,uttar pradesh",0,0
+860,0,Contai,0,0
+861,0,"jashpur nagar",0,0
+862,0,pamarru,0,0
+863,0,Chalisgaon,0,0
+864,0,Dubai,0,0
+865,0,"Punalur,kollam(dist)",0,0
+866,0,JAGDALPUR,0,0
+867,0,Ariyalur,0,0
+868,0,Jagdalpur(c.g.),0,0
+869,0,sorada,0,0
+870,0,angul,0,0
+871,0,"hindaun city,rajasthan",0,0
+872,0,"Vidisha (M.P)",0,0
+873,0,Dumkal,0,0
+874,0,HARYANA(Jhajjar),0,0
+875,0,"koyyalagudem,andhra pradesh",0,0
+876,0,Sonebhadra,0,0
+877,0,"power sector",0,0
+878,0,munger,0,0
+879,0,Rewa(M.P.),0,0
+880,0,"Diamond Harbour",0,0
+881,0,rudrpur,0,0
+882,0,"paralakhemundi,orissa",0,0
+883,0,"KORBA (C.G.)",0,0
+884,0,PALANPUR,0,0
+885,0,Proddatur,0,0
+886,0,Morinda,0,0
+887,0,"khetri nagar",0,0
+888,0,bangaluru,0,0
+889,0,Ramnagar,0,0
+890,0,bhubneswar,0,0
+891,0,champawat,0,0
+892,0,"KATWA,BURDWAN",0,0
+893,0,"Bettiah, Bihar",0,0
+894,0,"Rewari (Haryana)",0,0
+895,0,Najibabad,0,0
+896,0,"Satna (M.P.)",0,0
+897,0,eE9WN,0,0
+898,0,uttrakhand(kashipur),0,0
+899,0,katnataka,0,0
+900,0,rampur(u.p.),0,0
+901,0,Palwal,0,0
+902,30,Tiruchirapalli,0,3
+903,0,"Bahadur Garh",0,0
+904,0,"bharatpur,rajasthan",0,0
+905,0,bardoli,0,0
+906,0,Burhanpur,0,0
+907,0,dhuri,0,0
+908,0,hamirpur(h.p.),0,0
+909,0,gudaspur,0,0
+910,0,"Sharjah, UAE",0,0
+911,0,"azamgarh,uttar pradesh",0,0
+912,0,Tiruvannamalai,0,0
+913,0,Barrackpore,0,0
+914,0,Naimital,0,0
+915,0,Nagari,0,0
+916,0,xiph8,0,0
+917,0,"Bayana,Bharatpur",0,0
+918,0,mavelikara,0,0
+919,0,"v.p.o:- sehore",0,0
+920,0,prakasam,0,0
+921,0,Bihar(Munger),0,0
+922,0,"Berhampur,Orissa",0,0
+923,0,palwal(haryana),0,0
+924,0,nagda,0,0
+925,0,Baidyabati,0,0
+926,0,"Andhra Pradesh",0,0
+927,0,uttrakhand,0,0
+928,0,"almora,uttarakhand",0,0
+929,0,shahdol,0,0
+930,0,"Bishnupur Bankura",0,0
+931,0,9ccLx,0,0
+932,0,"coochbehar,West Bengal",0,0
+933,0,"una(himachal pradesh)",0,0
+934,0,panvel,0,0
+935,0,"shahjahanpur (U.P)",0,0
+936,0,PUSA,0,0
+937,0,hoshiarpur(punjab),0,0
+938,0,"Jind (Haryana)",0,0
+939,0,mahasamund,0,0
+940,0,Dharapuram,0,0
+941,0,Lincoln,0,0
+942,0,Hanoi,0,0
+943,0,Keonjhar,0,0
+944,0,vaduj,0,0
+945,0,"korba Chattisgarh",0,0
+946,0,kalyani-(nadia),0,0
+947,0,yamunnagar,0,0
+948,0,Rosera,0,0
+949,0,samstipur,0,0
+950,0,Jamalpur,0,0
+951,0,singhrauli,0,0
+952,0,gr.noida,0,0
+953,0,Umaria,0,0
+954,0,"Cooch Behar",0,0
+955,0,velpur,0,0
+956,0,kulpi,0,0
+957,0,Sangariya,0,0
+958,0,"solan,himachal pradesh",0,0
+959,0,Tornoto,0,0
+960,0,"sambalpur,orissa",0,0
+961,0,dewas(m.p.),0,0
+962,0,Philippines,0,0
+963,0,BUNDI,0,0
+964,0,madanapalli,0,0
+965,0,mayiladuthurai,0,0
+966,0,jashipur,0,0
+967,0,sagar(m.p.),0,0
+968,0,sudan,0,0
+969,0,"tamluk, purba medinipur",0,0
+970,0,"Saudi arabia,Singapore.",0,0
+971,0,"amravati,maharashtra",0,0
+972,0,Kalanwali(SIRSA),0,0
+973,0,Garhawa,0,0
+974,0,tamilnadu-dharmapuri,0,0
+975,0,BIKANER[RAJASTHAN],0,0
+976,0,"Jagdalpur bastar c.g.",0,0
+977,0,ramanathapuarm,0,0
+978,0,Singrauli,0,0
+979,0,2GNbQ,0,0
+980,0,lagos,0,0
+981,0,"katni (m.p.)",0,0
+982,0,"Paschim Medinipur",0,0
+983,0,"Phialadelphia, US",0,0
+984,0,chennai-tamilnadu,0,0
+985,0,godavarikhani,0,0
+986,0,"Malappuram,Kerala",0,0
+987,0,Pune(M.H.),0,0
+988,0,Modasa,0,0
+989,0,bolangir(orissa),0,0
+990,0,Mannar,0,0
+991,0," jhansi",0,0
+992,0,"Korba chhattisgarh",0,0
+993,0,"Hindustan Cables",0,0
+994,0,NEPANAGAR,0,0
+995,0,"bikaner {rajasthan}",0,0
+996,0,"any where",0,0
+997,0,GADWAL,0,0
+998,0,Cochin,0,0
+999,0,parwanoo,0,0
+1000,0,"Korba (Chhattisgarh)",0,0
+1001,0,udgir,0,0
+1002,0,"Bhilwara (Rajasthan)",0,0
+1006,4,Assam-other,0,3
+1033,31,Tripura-other,0,3
+1034,32,"Uttar Pradesh-other",0,3
+1035,33,Uttarakhand-other,0,3
+1036,34,"West Bengal-other",0,3
+1037,0,"MALANJKHAND (MADHYA PRADESH)",0,0
+1038,0,chittoo,0,0
+1039,0,"ACC kymore",0,0
+1040,0,kymore,0,0
+1041,0,Beed,0,0
+1042,0,Manila,0,0
+1043,0,korba(C.G.),0,0
+1044,0,"Bishnupur,Bankura",0,0
+1045,0,Fatehpur,0,0
+1046,0,"Srikakulam, Andhra Pradesh",0,0
+1047,1,"Andaman & Nicobar Islands-other",0,3
+1048,2,"Andhra Pradesh-other",0,3
+1049,3,"Arunachal Pradesh-other",0,3
+1051,5,Bihar-other,0,3
+1052,6,Chandigarh-other,0,3
+1053,7,Chhattisgarh-other,0,3
+1054,8,"Dadra & Nagar Haveli-other",0,3
+1055,9,"Daman & Diu-other",0,3
+1056,10,Goa-other,0,3
+1057,11,Gujarat-other,0,3
+1058,12,Haryana-other,0,3
+1059,13,"Himachal Pradesh-other",0,3
+1060,14,"Jammu & Kashmir-other",0,3
+1061,15,Jharkhand-other,0,3
+1062,16,Karnataka-other,0,3
+1063,17,Kerala-other,0,3
+1064,18,Lakshadweep-other,0,3
+1065,19,"Madhya Pradesh-other",0,3
+1066,20,Maharashtra-other,0,3
+1067,21,Manipur-other,0,3
+1068,22,Meghalaya-other,0,3
+1069,23,Mizoram-other,0,3
+1070,24,Nagaland-other,0,3
+1071,25,Orissa-other,0,3
+1072,26,Pudhucherry-other,0,3
+1073,27,Punjab-other,0,3
+1074,28,Rajasthan-other,0,3
+1075,29,Sikkim-other,0,3
+1076,30,"Tamil Nadu-other",0,3
+1081,0,junagadh,0,0
+1082,0,Amta,0,0
+1083,0,k,0,0
+1084,0,Dharamkot,0,0
+1085,0,"Burdwan,West Bengal",0,0
+1086,0,"Tripura,Agertala",0,0
+1087,0,Barcelona,0,0
+1088,0,Sheoraphuli,0,0
+1089,0,ropar,0,0
+1090,0,Khambhat,0,0
+1091,0,mancherial,0,0
+1092,0,ashta,0,0
+1093,0,pusad,0,0
+1094,0,"NAWANSHAHR  (PUNJAB )",0,0
+1095,0,Asind,0,0
+1096,0,durg(c.g.),0,0
+1097,0,karanprayag,0,0
+1098,0,teref,0,0
+1099,0,pondicherry,0,0
+1100,0,mungaoli,0,0
+1101,0,"bokaro steel city",0,0
+1102,0,araria,0,0
+1103,0,Bareilly(U.P.),0,0
+1104,0,"lagos,nigeria",0,0
+1105,0,anupgarh,0,0
+1106,0,"CHANDRAPUR (M.S.)",0,0
+1107,0,SINGRAULI(M.P),0,0
+1108,0,"sultanpur lodhi",0,0
+1109,0,T62Xt,0,0
+1110,0,"maharashtra- akola",0,0
+1111,0,Dhaka,0,0
+1112,0,chakradharpur,0,0
+1113,0,krishnagri,0,0
+1114,0,Ichalkaranji,0,0
+1115,0,amalapuram,0,0
+1116,0,Boisar,0,0
+1117,0,"Giridih (Jharkhand)",0,0
+1118,0,kaij,0,0
+1119,0,"amravati, maharashtra",0,0
+1120,0,hapur,0,0
+1121,0,7M9rM,0,0
+1122,0,PURNIA,0,0
+1123,0,sadalga,0,0
+1124,0,"Bihar, Siwan",0,0
+1125,0,uttarkashi,0,0
+1126,0,sarangarh,0,0
+1127,0,HIngoli,0,0
+1128,0,Manali,0,0
+1129,0,PUDUKKOTAI,0,0
+1130,0,"Nepal. ",0,0
+1131,0,"karachi pakistan",0,0
+1132,0,"Kolar Gold Fields",0,0
+1133,0,bulandsharhr,0,0
+1134,0,"tamil nadu-dharmapuri",0,0
+1135,0,"Kalanwali (Sirsa),haryana 125201",0,0
+1136,0,"delhi ncr region",0,0
+1137,0,Ld6z7,0,0
+1138,0,"Gondal, Gujarat",0,0
+1139,0,Dalkhola,0,0
+1140,0,"Amravati, Shegaon",0,0
+1141,0,samalkot,0,0
+1142,0,nadiad(gujarat),0,0
+1143,0,kalka,0,0
+1144,0,"Auraiya, U.P.",0,0
+1145,0,piduguralla,0,0
+1146,0,singarayakonda,0,0
+1147,0,sivagangai,0,0
+1148,0,bhanjanagar,0,0
+1149,0,AaAaT,0,0
+1150,0,RAJASTHAN,0,0
+1151,0,JAGRAON,0,0
+1152,0,gondia,0,0
+1153,0,Siddipet,0,0
+1154,0,Indrabil,0,0
+1155,0,"martur,ongole",0,0
+1156,0,student,0,0
+1157,0,amaravati,0,0
+1158,0,bargaon,0,0
+1159,0,VERAVAL,0,0
+1160,0,"Akola Maharashtra",0,0
+1161,0,karad,0,0
+1162,0,Palampur,0,0
+1163,0,Herndon,0,0
+1164,0,chhiundwara,0,0
+1165,0,Barasat,0,0
+1166,0,Chikhli,0,0
+1167,0,Delhi-ncr,0,0
+1168,0,Singrouli(M.P.),0,0
+1169,0,TUMSAR,0,0
+1170,0,Aranthagi,0,0
+1171,0,Latur(Maharashtara),0,0
+1172,0,"Damoh (m.p.)",0,0
+1173,0,"fatehpur(u.p) ",0,0
+1174,0,NALGONDA,0,0
+1175,0,"Betul mp",0,0
+1176,0,zjbmk,0,0
+1177,0,Kuppam,0,0
+1178,0,"LUMDING,ASSAM,",0,0
+1179,0,jalna,0,0
+1180,0,"south africa",0,0
+1181,0,Kaikaluru,0,0
+1182,0,Raman,0,0
+1183,0,Berhampur(Orissa),0,0
+1184,0,Babhaleshwar,0,0
+1185,0,Amravati(MH),0,0
+1186,0,"vidisha Madhya paradesh",0,0
+1187,0,daltonganj,0,0
+1188,0,Riga,0,0
+1189,0,bantumilli,0,0
+1190,0,jalaun,0,0
+1191,0,cheenai,0,0
+1192,0,5XeL5,0,0
+1193,0,pilibhit,0,0
+1194,0,"CHAPRA,BIHAR",0,0
+1195,0,RAJAM,0,0
+1196,0,Singur,0,0
+1197,0,"mechanical enggineering",0,0
+1198,0,idukki,0,0
+1199,0,thiruvannamalai,0,0
+1200,0,Tunis,0,0
+1201,0,Bagasara,0,0
+1202,0,"Kadapa, AP",0,0
+1203,0,raigarh,0,0
+1204,0,"bihar,purnea",0,0
+1205,0,coimbuture,0,0
+1206,0,Abohar(punjab),0,0
+1207,0,BONGAON,0,0
+1208,0,"Sultanpur, Uttar Pradesh",0,0
+1209,0,mandsour,0,0
+1210,0,electronics,0,0
+1211,0,Sendhwa,0,0
+1212,0,Chaibasa,0,0
+1213,0,Phaltan,0,0
+1214,0,Challapalli,0,0
+1215,0,Ambajogai,0,0
+1216,0,Sikandarabad(u.p.),0,0
+1217,0,Dhule(Maharashtra),0,0
+1218,0,BCCLG,0,0
+1219,0,"delhi ncr",0,0
+1220,0,China,0,0
+1221,0,"aberdeen,unitedkingdom",0,0
+1222,0,maruteru,0,0
+1223,0,kuttippuram,0,0
+1224,0,"Raisen, Madhya Pradesh",0,0
+1225,0,Adams,0,0
+1226,0,Khanna,0,0
+1227,0,"JORHAT,ASSAM",0,0
+1228,0,"CHITTAGONG,BANGLADESH",0,0
+1229,0,"pilani, dist-jhunjhunu  ",0,0
+1230,0,raibareli,0,0
+1231,0,Alwar),0,0
+1232,0,Chakdaha,0,0
+1233,0,"Dewas(Madhya Pradesh)",0,0
+1234,0,senegal,0,0
+1235,0,Datia(MP),0,0
+1236,0,amaravati(Maharashtra),0,0
+1237,0,Kapurthala,0,0
+1238,0,"Berhampore, Murshidabad",0,0
+1239,0,madhepura,0,0
+1240,0,"Manglaur Town and Pantnagar",0,0
+1241,0,"Sonipat ( Haryana)",0,0
+1242,0,"Latur,maharashtra",0,0
+1243,0,Ramanthapuram,0,0
+1244,0,"Grater Noida",0,0
+1245,0,"tamil nadu",0,0
+1246,0,"nadiad, gujarat",0,0
+1247,0,CHIPURUPALLI,0,0
+1248,0,"Rihand Nagar,Sonebhadra ",0,0
+1249,0,"Palwal, haryana",0,0
+1250,0,Qatar,0,0
+1251,0,"jhumari telaiya",0,0
+1252,0,Anjar,0,0
+1253,0,F3tar,0,0
+1254,0,"N 2 H B S",0,0
+1255,0,Naraina,0,0
+1256,0,"Bhadrak ,Orissa",0,0
+1257,0,Giddalur,0,0
+1258,0,chinnasalem,0,0
+1259,0,calcutta,0,0
+1260,0,Washim,0,0
+1261,0,Hyderabad,0,0
+1262,0,ARCOT,0,0
+1263,0,mangaon,0,0
+1264,0,kurichedu,0,0
+1265,0,Bifbf,0,0
+1266,0,Andal,0,0
+1267,0,Shegaon,0,0
+1268,0,Abohar(Panjab),0,0
+1269,0,Bobbili,0,0
+1270,0,Chhapra,0,0
+1271,0,"Sharjah - UAE",0,0
+1272,0,"Sheffield, UK",0,0
+1273,0,Malvan,0,0
+1274,0,studdent,0,0
+1275,0,Nuzvid,0,0
+1276,0,"Gujarat- Modasa",0,0
+1277,0,Barabanki,0,0
+1278,0,SATTANKULAM,0,0
+1279,0,Katni,0,0
+1280,0,"ncr(delhi,noida,gazhiabad)",0,0
+1281,0,tirunelveli,0,0
+1282,0,Shantiniketan,0,0
+1283,0,BHILAI(CHHATTISGARH),0,0
+1284,0,Dundlod,0,0
+1285,0,Davanagere/Bangalore,0,0
+1286,0,kop,0,0
+1287,0,Latur(Maharashtra),0,0
+1288,0,"Madurai-Tamil Nadu",0,0
+1289,0,THIRUVANANTHAPURAM,0,0
+1290,0,kushinagar,0,0
+1291,0,"tadipatri, anantapur(d)",0,0
+1292,0,"Budaun (UP)",0,0
+1293,0,lshahdol,0,0
+1294,0,Una,0,0
+1295,0,Ratangiri,0,0
+1296,0,"Harrison,new Jersey-USA",0,0
+1297,0,M.Nagar,0,0
+1298,0,ballarpur,0,0
+1299,0,"bhiwani, haryana",0,0
+1300,0,Basti(UP),0,0
+1301,0,"ara bihar",0,0
+1302,0,"andhrapradesh - kadapa",0,0
+1303,0,chinsurah,0,0
+1304,0,Mau,0,0
+1305,0,garhwa,0,0
+1306,0,"Pauri garhwal",0,0
+1307,0,kasganj,0,0
+1308,0,bulandshahr(U.P.),0,0
+1309,0,khachrod,0,0
+1310,0,louisville,0,0
+1311,0,Etah(U.P.),0,0
+1312,0,"image CAPTCHA",0,0
+1313,0,eK4MW,0,0
+1314,0,kerala,0,0
+1315,0,bhilai,0,0
+1316,0,"all india",0,0
+1317,0,degloor,0,0
+1318,0,muktsar,0,0
+1319,0,Vita(Sangli),0,0
+1320,0,Dungari,0,0
+1321,0,"Hindaun City",0,0
+1322,0,RAJGANGPUR,0,0
+1323,0,"akola,mahasftra",0,0
+1324,0,khilchipur,0,0
+1325,0,sbg,0,0
+1326,0,mahabubnagar,0,0
+1327,0,"THENI,TAMILNADU",0,0
+1328,0,"kathmandu, nepal",0,0
+1329,0,"Narsapur,west godavari district",0,0
+1330,0,durg,0,0
+1331,0,Bilimora,0,0
+1332,0,sankeshwar,0,0
+1333,0,Yeola,0,0
+1334,0,Rajampeta,0,0
+1335,0,aligarh(U.P.,0,0
+1336,0,"guna mp",0,0
+1337,0,"cuddapah, AP",0,0
+1338,0,poompuhar,0,0
+1339,0,"purchase and vendor development",0,0
+1340,0,ImageCAPTCHA,0,0
+1341,0,"GRETEAR NOIDA",0,0
+1342,0,Mohindergarh,0,0
+1343,0,SHEOGANJ,0,0
+1344,0,8tPKM,0,0
+1345,0,other,0,0
+1346,0,chiplun,0,0
+1347,0,KAVALI,0,0
+1348,0,Vyara,0,0
+1349,0,"sirsa,haryana",0,0
+1350,0,Jalna(MH),0,0
+1351,0,shahjahanpur(u.p),0,0
+1352,0,2Teaj,0,0
+1353,0,"DURG,CHHATTISGARH",0,0
+1354,0,coonoor,0,0
+1355,0,cuddapah,0,0
+1356,0,Rangpur,0,0
+1357,0,xd2tf,0,0
+1358,0,"Port Blair",0,0
+5000,0,"Anywhere in India",0,0
+5001,36,"Outside India",0,0
+5002,32,Varanasi,0,2
+5003,37,Telangana-other,0,4
+5072,2,Eluru,0,3
+5073,2,Kadapa,0,3
+5074,2,Machilipatnam,0,4
+5075,2,Ongole,0,4
+5076,2,Srikakulam,0,4
+5077,3,Changlang,0,4
+5078,3,Longding,0,4
+5079,3,Namsai,0,4
+5080,3,Tawang,0,4
+5081,4,Dibrugarh,0,3
+5082,4,Jorhat,0,4
+5083,4,Nagaon,0,4
+5084,5,Gaya,0,3
+5085,5,Munger,0,4
+5086,5,Biharsharif,0,3
+5087,5,Katihar,0,4
+5088,5,Hajipur,0,3
+5089,7,Raigarh,0,4
+5090,11,Junagadh,0,3
+5091,11,Surendranagar,0,3
+5092,11,Godhra,0,4
+5093,11,Dahod,0,3
+5094,12,Bhiwani,0,3
+5095,12,Kaithal,0,4
+5096,12,Palwal,0,3
+5097,12,Panchkula,0,3
+5098,12,Rewari,0,4
+5099,12,Yamunanagar,0,3
+5100,13,Chamba,0,3
+5101,13,Kangra,0,3
+5102,13,Mandi,0,4
+5103,14,Anantnag,0,4
+5104,14,Udhampur,0,4
+5105,15,Deoghar,0,4
+5106,15,Hazaribagh,0,4
+5107,16,Chikkaballapur,0,4
+5108,16,Chikkamagaluru,0,4
+5109,16,Hassan,0,3
+5110,16,Mandya,0,3
+5111,16,Tumakuru,0,3
+5112,16,Koppal,0,3
+5113,16,Ramanagara,0,4
+5114,16,Shivamogga,0,3
+5115,17,Wayanad,0,4
+5116,17,Idukki,0,4
+5117,18,Kavaratti,0,3
+5118,19,Katni,0,4
+5119,20,Chandrapur,0,3
+5120,20,Khopoli,0,4
+5121,20,Ratnagiri,0,3
+5122,24,kohima,0,3
+5123,25,Sambalpur,0,3
+5124,26,Oulgaret,0,3
+5125,28,Barmer,0,4
+5126,29,Namchi,0,3
+5127,30,Sivakasi,0,4
+5128,30,Tiruppur,0,3
+5129,37,Adilabad,0,4
+5130,37,Khammam,0,3
+5131,37,Mahabubnagar,0,4
+5132,37,Medak,0,4
+5133,37,Nalgonda,0,4
+5134,32,Bijnor,0,3
+5135,33,Haldwani,0,4
+5136,33,Rudrapur,0,4
+5137,33,Haridwar,0,4
+5138,33,"Garhwal Srinagar",0,4
